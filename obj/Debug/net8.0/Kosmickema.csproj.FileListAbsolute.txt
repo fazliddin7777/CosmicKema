@@ -1,0 +1,14 @@
+C:\Users\User\Lessons\Kosmickema\bin\Debug\net8.0\Kosmickema.exe
+C:\Users\User\Lessons\Kosmickema\bin\Debug\net8.0\Kosmickema.deps.json
+C:\Users\User\Lessons\Kosmickema\bin\Debug\net8.0\Kosmickema.runtimeconfig.json
+C:\Users\User\Lessons\Kosmickema\bin\Debug\net8.0\Kosmickema.dll
+C:\Users\User\Lessons\Kosmickema\bin\Debug\net8.0\Kosmickema.pdb
+C:\Users\User\Lessons\Kosmickema\obj\Debug\net8.0\Kosmickema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Lessons\Kosmickema\obj\Debug\net8.0\Kosmickema.AssemblyInfoInputs.cache
+C:\Users\User\Lessons\Kosmickema\obj\Debug\net8.0\Kosmickema.AssemblyInfo.cs
+C:\Users\User\Lessons\Kosmickema\obj\Debug\net8.0\Kosmickema.csproj.CoreCompileInputs.cache
+C:\Users\User\Lessons\Kosmickema\obj\Debug\net8.0\Kosmickema.dll
+C:\Users\User\Lessons\Kosmickema\obj\Debug\net8.0\refint\Kosmickema.dll
+C:\Users\User\Lessons\Kosmickema\obj\Debug\net8.0\Kosmickema.pdb
+C:\Users\User\Lessons\Kosmickema\obj\Debug\net8.0\Kosmickema.genruntimeconfig.cache
+C:\Users\User\Lessons\Kosmickema\obj\Debug\net8.0\ref\Kosmickema.dll
